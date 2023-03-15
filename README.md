@@ -1,5 +1,5 @@
 # NN-RMT-SVD
-Accompanying code for the paper "Application of RMT to Deep Learning: Increasing Accuracy and Reducing Overfitting"
+Accompanying code for the paper "Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting"
 
 Abstract: In this work, we present some applications of random matrix theory for
 the training of deep neural networks. Recently, random matrix theory (RMT) has
