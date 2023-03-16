@@ -41,4 +41,4 @@ or it can be used on a pre-trained network for compression.
 
 
 ## Contact Info
-Authors contact info is yms5281@psu.edu, jtj5311@psu.edu, a.krupchytskyi@gmail.com.
+Authors contact info is yms5281@psu.edu, jtj5311@psu.edu, omk5165@psu.edu
