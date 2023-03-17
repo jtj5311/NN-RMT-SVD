@@ -1,5 +1,6 @@
 # NN-RMT-SVD
 Accompanying code for the paper "Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting"
+Available at https://arxiv.org/abs/2303.08986
 
 ## Abstract
 
@@ -36,7 +37,7 @@ algorithm, we can classify each singular value in the spectrum of our weight mat
 noise or signal. With this we can then prune some of the noise singular values.
 
 This theory can be used as either a modified training algorithm where one periodically
-prunes small singular values during training as a method of impededing overfitting,
+prunes small singular values during training as a method of impeding overfitting,
 or it can be used on a pre-trained network for compression.
 
 
